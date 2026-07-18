@@ -1,6 +1,5 @@
-# CyberSecurity
-Hands-on cybersecurity lab reports — VAPT, network scanning, and web app testing
 # Cybersecurity — S Bhanu Prakash
+Hands-on cybersecurity lab reports — VAPT, network scanning, and web app testing
 
 Cybersecurity enthusiast focused on ethical hacking, vulnerability assessment, and penetration testing. This repo documents hands-on lab work performed in isolated, personal virtual environments as part of independent skill-building and internship coursework.
 
